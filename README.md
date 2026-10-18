@@ -6,9 +6,9 @@
     <strong>No more 403 errors. No more data loss.</strong>
   </p>
   <p align="center">
-    <a href="https://github.com/Deepsea1111/vps-gdrive-vault/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Deepsea1111/vps-gdrive-vault?style=flat-square&color=blue" alt="License"></a>
-    <a href="https://github.com/Deepsea1111/vps-gdrive-vault/stargazers"><img src="https://img.shields.io/github/stars/Deepsea1111/vps-gdrive-vault?style=flat-square&color=yellow" alt="Stars"></a>
-    <a href="https://github.com/Deepsea1111/vps-gdrive-vault/issues"><img src="https://img.shields.io/github/issues/Deepsea1111/vps-gdrive-vault?style=flat-square" alt="Issues"></a>
+    <a href="https://github.com/DeepSeaX-labs/vps-gdrive-vault/blob/main/LICENSE"><img src="https://img.shields.io/github/license/DeepSeaX-labs/vps-gdrive-vault?style=flat-square&color=blue" alt="License"></a>
+    <a href="https://github.com/DeepSeaX-labs/vps-gdrive-vault/stargazers"><img src="https://img.shields.io/github/stars/DeepSeaX-labs/vps-gdrive-vault?style=flat-square&color=yellow" alt="Stars"></a>
+    <a href="https://github.com/DeepSeaX-labs/vps-gdrive-vault/issues"><img src="https://img.shields.io/github/issues/DeepSeaX-labs/vps-gdrive-vault?style=flat-square" alt="Issues"></a>
     <img src="https://img.shields.io/badge/platform-Linux-lightgrey?style=flat-square&logo=linux" alt="Platform">
     <img src="https://img.shields.io/badge/shell-bash-green?style=flat-square&logo=gnu-bash" alt="Shell">
   </p>
@@ -127,7 +127,7 @@ rclone config
 ### 2. Clone and configure
 
 ```bash
-git clone https://github.com/Deepsea1111/vps-gdrive-vault.git
+git clone https://github.com/DeepSeaX-labs/vps-gdrive-vault.git
 cd vps-gdrive-vault
 
 cp config.env.example config.env
